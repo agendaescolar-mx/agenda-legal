@@ -1,6 +1,6 @@
 # Términos de uso y descargo de responsabilidad — Agenda Escolar
 
-**Última actualización:** 31 de octubre de 2026
+**Última actualización:** 13 de noviembre de 2026
 
 ## 1. Objeto
 
@@ -46,11 +46,27 @@ Las versiones nuevas pueden cambiar funciones. Las actualizaciones se publican p
 
 El software y su documentación pertenecen a su autor. Los datos y documentos generados pertenecen al usuario.
 
-## 9. Legislación aplicable
+**Licencia de uso.** El autor concede al docente una licencia **personal, no exclusiva, no transferible y revocable** para instalar y usar la aplicación en sus propios equipos, con el único fin de llevar el registro escolar de sus grupos.
 
-Estos términos se rigen por las leyes de **México**. Cualquier controversia se someterá a sus tribunales competentes.
+**Restricciones.** No se permite: (a) vender, alquilar, ceder o distribuir la aplicación ni sus licencias; (b) modificarla, descompilarla u obtener su código fuente por ingeniería inversa, salvo en lo que la ley permita expresamente; (c) usarla para crear un producto competidor; ni (d) suprimir los avisos de autor que incorpora. Todos los derechos no concedidos expresamente quedan reservados al autor.
 
-## 10. Contacto
+## 9. Legislación aplicable y jurisdicción
+
+Estos términos se rigen por las leyes de **México**. Para cualquier controversia, las partes se someten a los tribunales competentes de **[ciudad], México**, renunciando a cualquier otro fuero que pudiera corresponderles. El autor podrá acudir a cualquier tribunal competente para proteger sus derechos de propiedad intelectual.
+
+## 10. Disposiciones generales
+
+**Acuerdo completo.** Estos términos y la [política de privacidad](https://jespezz.github.io/agenda-legal/) constituyen el acuerdo completo entre el autor y el usuario. Si hubiera contradicción entre ambos en materia de datos personales, prevalece la política de privacidad.
+
+**Independencia de las cláusulas.** Si una cláusula se declara nula o inaplicable, las demás siguen vigentes y la cláusula afectada se sustituye por otra que cumpla su misma finalidad.
+
+**Cambios.** El autor puede actualizar estos términos. Los cambios se publican con la versión nueva de la aplicación y en la misma dirección donde se consulta este documento; el uso de la aplicación después de la fecha de actualización significa que se aceptan.
+
+**Cesión.** El usuario no puede ceder los derechos de esta licencia. El autor puede cederla junto con la aplicación, sin que ello empeore los derechos ya reconocidos al usuario.
+
+**Subsistencia.** Las cláusulas de propiedad intelectual, exclusión de garantías, responsabilidad y legislación aplicable siguen vigentes aunque el usuario deje de usar la aplicación.
+
+## 11. Contacto
 
 **agendaescolarappzz@gmail.com**
 
