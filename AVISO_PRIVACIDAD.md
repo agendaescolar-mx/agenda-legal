@@ -73,4 +73,4 @@ Cualquier cambio de este aviso se publicará con la nueva versión de la aplicac
 
 ---
 
-*Este documento es una base técnica y debe ser revisado por un profesional del derecho antes de su publicación.*
+
