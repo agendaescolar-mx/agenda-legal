@@ -1,6 +1,6 @@
 # Política de privacidad — Agenda Escolar
 
-**Última actualización:** 31 de octubre de 2026
+**Última actualización:** 14 de noviembre de 2026
 
 *Agenda Escolar* es una aplicación de escritorio (Windows) y para Android que permite al docente llevar la asistencia, las evaluaciones y los reportes de su grupo, y generar la agenda escolar en Word o PDF.
 

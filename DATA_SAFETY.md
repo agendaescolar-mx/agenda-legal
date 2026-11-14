@@ -1,6 +1,6 @@
 # Formulario «Seguridad de los datos» de Google Play — respuestas sugeridas
 
-Paquete: `com.jespezz.agenda_movil` · `versionName` 17.10.0 · `versionCode` 6180
+Paquete: `com.jespezz.agenda_movil` · `versionName` 1.0.0 (Google Play) · `versionCode` 6253
 
 ## 1. Recopilación y uso
 

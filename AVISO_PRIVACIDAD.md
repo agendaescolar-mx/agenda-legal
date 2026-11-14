@@ -1,6 +1,6 @@
 # Aviso de privacidad — Agenda Escolar
 
-**Última actualización:** 31 de octubre de 2026 · **Versión de la app:** 18.8 (escritorio) / 17.10.0, código 6180 (Android)
+**Última actualización:** 14 de noviembre de 2026 · **Versión de la app:** 24.2 (escritorio) / 17.83.0 (Android), código 6253
 
 ## 1. Quién trata tus datos
 

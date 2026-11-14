@@ -1,6 +1,6 @@
 # Instrucciones para la eliminación de datos — Agenda Escolar
 
-**Última actualización:** 31 de octubre de 2026 · **Versión de la app:** 18.8 (escritorio) / 17.10.0, código 6180 (Android)
+**Última actualización:** 14 de noviembre de 2026 · **Versión de la app:** 24.2 (escritorio) / 17.83.0 (Android), código 6253
 
 *Agenda Escolar* no tiene cuentas propias ni servidores del desarrollador: los datos están en tu equipo y, si lo activaste, en **tu** Google Drive. Por eso la eliminación la ejecutas tú, en cuatro pasos posibles (basta con los que te correspondan).
 
