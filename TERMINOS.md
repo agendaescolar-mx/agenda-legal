@@ -72,4 +72,3 @@ Estos términos se rigen por las leyes de **México**. Para cualquier controvers
 
 ---
 
-*Este documento es una base técnica; debe revisarlo un abogado antes de su publicación.*

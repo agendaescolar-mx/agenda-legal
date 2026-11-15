@@ -69,4 +69,4 @@ Declaro que leí y entendí esta carta, que se me explicó para qué se usan los
 
 ---
 
-*Este documento es una base técnica y debe revisarlo un abogado antes de usarse. Se apoya en la Ley Federal de Protección de Datos Personales en Posesión de los Particulares (artículos 8, 9 y 16) y en el interés superior del menor.*
+*Se apoya en la Ley Federal de Protección de Datos Personales en Posesión de los Particulares (artículos 8, 9 y 16) y en el interés superior del menor.*
