@@ -1,7 +1,7 @@
 # Agenda Escolar — documentos legales
 
-Política de privacidad, aviso de privacidad, términos de uso, respuestas de seguridad de datos, **instrucciones para la eliminación de datos** (`eliminacion.html`) y la **carta de consentimiento de tutores** (`consentimiento.html`) de la app **Agenda Escolar** (Windows y Android).
+Política de privacidad, aviso de privacidad, términos de uso, **instrucciones para la eliminación de datos** (`eliminacion.html`) y la **carta de consentimiento de tutores** (`consentimiento.html`) de la app **Agenda Escolar** (Android y Windows).
 
-Publicado con GitHub Pages: https://jespezz.github.io/agenda-legal/
+Publicado con GitHub Pages: https://agendaescolar-mx.github.io/agenda-legal/
 
 Contacto: agendaescolarappzz@gmail.com
